@@ -1,7 +1,5 @@
 MISSION TO MARS
 --------------
-5. Push the above changes to GitHub.
-
 ## Instructions 
 
 The instructions for this assignment are divided into three parts: 
